@@ -1,8 +1,9 @@
 body {
   font-family: "ptsans", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-image: url(https://images.unsplash.com/photo-1627919258442-2f44a1e950d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3VjY3VsZW50c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+  background-image: url('./images/jane-woe-wcD83tnq9fM-unsplash.jpg');
   background-size: cover;
   text-align: center;
+  margin: 15px;
 }
 
 .left {
@@ -16,9 +17,9 @@ body {
 .btn {
   outline: none;
   color: black;
-  background-color: transparent;
+  background-color: greenyellow;
   box-shadow: 0 0 0 0;
-  margin-right: 3px;
+  margin-right: 3px solid transparent;
 }
 
 .clearfix {
@@ -26,15 +27,19 @@ body {
 }
 
 .form {
-  margin: auto;
-  border: 3px solid;
+  margin: 30px auto;
+  border-radius: 5px;
+  border: 3px solid aquamarine;
+  background-color: #17a2b8;
+  opacity: 85%;
+  padding: 0.5em;
 }
 
 .form input, .form select, .form textarea {
   border-radius: 5px;
   border: 1px solid #17a2b8;
   outline: none;
-  background: none;
+  background-color: aquamarine;
   padding: 5px;
   width: 100%;
 }
@@ -81,6 +86,20 @@ ul {
 }
 
 a {
-  color: #17a2b8;
+  color: #ce0de0;
+  border-radius: 5px;
+  border: 1px solid;
 }
 /* .calendar > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(7) */
+body > table {
+  border-radius: 5px;
+  background-color: rgb(128, 196, 26);
+  opacity: 85%;
+
+}
+body > h1 {
+  background-color: rgb(2, 104, 2);
+  opacity: 70%;
+  border-radius: 5px;
+  color: rgb(146, 236, 0);
+}
