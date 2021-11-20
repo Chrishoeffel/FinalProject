@@ -1,8 +1,8 @@
 body {
   font-family: "ptsans", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-image: url('images/jane-woe-wcD83tnq9fM-unsplash.jpg');
+  background-image: url(https://images.unsplash.com/photo-1627919258442-2f44a1e950d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3VjY3VsZW50c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
   background-size: cover;
-  padding: auto;
+  text-align: center;
 }
 
 .left {
@@ -27,6 +27,7 @@ body {
 
 .form {
   margin: auto;
+  border: 3px solid;
 }
 
 .form input, .form select, .form textarea {
