@@ -2,6 +2,7 @@ body {
   font-family: "ptsans", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-image: url('./images/jane-woe-wcD83tnq9fM-unsplash.jpg');
   background-size: cover;
+  background-image: center;
   text-align: center;
   margin: 15px;
 }

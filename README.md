@@ -43,5 +43,5 @@ Design process:
 
 # Challenges!
 1. Time-management (Try to stay organized withg user flow, Trello)
-
 2. Scope: Keeping focused on current stage 
+3. Documentation: So many resources out there. Hard to determine what is best. 
