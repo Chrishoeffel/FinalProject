@@ -31,7 +31,7 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', '*', 'https://zencalendarapp.herokuapp.com/']
-
+DATABASE_URL = env('DATABASE_URL')
 
 # Application definition
 
@@ -132,3 +132,4 @@ STATICFILES_DIRS = [
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
