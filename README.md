@@ -18,6 +18,30 @@
 
 
 ## Purpose of the project:
-The goal of the project is to create an online space to cellect my thought.  I wanted to create a website where I could import my calendar and see my weekly schedule.  I will be setting up a email reminderfor every start of the week to ensure that weeks priorities are addressed. 
+The goal of the project is to create an online space to cellect my thought and become more organized. <br>
+Objective:
+1. create a visible calendar
+2. add/delete events to calendar
 
-![User FLow](./Calender_User_Flow.drawio)
+
+
+
+
+
+
+![User FLow](Calender_User_Flow.png)
+
+Planning ALL Stemmed from the idea of a clam replaxing environment that is easy to use.<br>
+<br>
+Design process:
+![Homepage](ChaosStart.png)<br>
+
+![midstyling](midstyling.png)
+![acceptedstying](acceptedstying.png)
+![acceptedstying2](acceptedstying2.png)
+![website](Finalpage.png)
+
+# Challenges!
+1. Time-management (Try to stay organized withg user flow, Trello)
+
+2. Scope: Keeping focused on current stage 
