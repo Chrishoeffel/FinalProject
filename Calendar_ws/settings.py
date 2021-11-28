@@ -30,7 +30,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '*', 'https://zencalendarapp.herokuapp.com/']
+ALLOWED_HOSTS = ['localhost', '*', 'zencalendarapp.herokuapp.com', '127.0.0.1']
 DATABASE_URL = env('DATABASE_URL')
 
 # Application definition
