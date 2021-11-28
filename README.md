@@ -33,13 +33,13 @@ Objective:
 
 Planning ALL Stemmed from the idea of a clam replaxing environment that is easy to use.<br>
 <br>
-Design process:
+Design process: <br>
 ![Homepage](ChaosStart.png)<br>
 
-![midstyling](midstyling.png)
-![acceptedstying](acceptedstying.png)
-![acceptedstying2](acceptedstying2.png)
-![website](Finalpage.png)
+![midstyling](midstyling.png)<br>
+![acceptedstying](acceptedstying.png)<br>
+![acceptedstying2](acceptedstying2.png)<br>
+![website](Finalpage.png)<br>
 
 # Challenges!
 1. Time-management (Try to stay organized withg user flow, Trello)
