@@ -1,1 +1,1 @@
-web: gunicorn Calendar_ws.wsgi
+web: gunicorn Calendar_ws.wsgi --log-file -
